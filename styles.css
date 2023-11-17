@@ -1,0 +1,103 @@
+/* Стили для заголовка */
+header {
+    background-color: #0e141a;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+
+div.e{
+    text-align: center;
+    width: 400;
+    height: 600;
+}
+header h1 {
+    
+    margin: 0;
+}
+
+/* Стили для навигационного меню */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+@media only screen and (max-width: 431px) {
+    body {
+        font-size: 72%; 
+    }
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    font-size: 140%;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+/* Стили для основного контента */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Стили для подвала */
+footer {
+    background-color: #0e141a;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+a.change-text{
+  color: #fbe2e2; /* Цвет текста */
+  font-size: 1.2em; /* Размер текста */
+
+  padding: 20px 0px;
+  text-transform: uppercase;
+  line-height: 1;
+  -webkit-transition: all 0.5s ease;
+          transition: all 0.5s ease; 
+}
+a.change-text:hover{
+  color: #740200; /* Меняем цвет текста */
+}
+
+
+p.g{
+    font-size: 1.4em;
+}
+
+h2.y{
+    font-size: 1.9em;
+}
+
+section {
+    max-width: 800px;
+   
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+     
+
+
+
+
+  .wrapper {
+    width: 600px;
+    height: 400px;
+    text-align: center;
+  }
+  .exmp3 img {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+  }
