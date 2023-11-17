@@ -16,7 +16,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-
+margin-top: -19%;
   overflow: hidden;
   
 }
@@ -104,7 +104,7 @@ section {
 
 .swiper-slide--one {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url(https://newsarmenia.am/upload/iblock/c3c/c3c1cf408fe1b47dac3307eceb558ca9.jpg)
+    url(https://avatars.dzeninfra.ru/get-zen_doc/5238996/pub_61d190757a74052bd27efb47_61d197bda9b4021c8d493648/scale_1200)
       no-repeat 50% 50% / cover;
 }
 
